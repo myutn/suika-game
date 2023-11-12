@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/index.html --open",
-    "build": "parcel build src/index.html -d docs --no-minify",
+    "build": "parcel build src/index.html -d docs --no-minify --public-url ./",
     "start": "parcel docs/index.html --open"
   },
   "keywords": [],
