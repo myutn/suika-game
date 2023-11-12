@@ -1,0 +1,31 @@
+{
+  "name": "suika-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html --open",
+    "build": "parcel build src/index.html -d docs --no-minify",
+    "start": "parcel docs/index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/p5": "^1.7.3",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "p5": "^1.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-p5-wrapper": "^4.1.2"
+  }
+}

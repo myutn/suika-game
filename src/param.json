@@ -1,0 +1,112 @@
+{
+    "fruit": [
+        {
+            "type": "cherry",
+            "radius": 14,
+            "weight": 10,
+            "color": "rgb(245, 66, 66)",
+            "restitution": 0.5,
+            "isInit":true,
+            "point":0
+        },
+        {
+            "type": "strawberry",
+            "radius": 16,
+            "weight": 10,
+            "color": "rgb(245, 66, 111)",
+            "restitution": 0.5,
+            "isInit":true,
+            "point":1
+        },
+        {
+            "type": "grape",
+            "radius": 22,
+            "weight": 10,
+            "color": "rgb(164, 66, 245)",
+            "restitution": 0.5,
+            "isInit":true,
+            "point":3
+        },
+        {
+            "type": "oragne",
+            "radius": 28,
+            "weight": 10,
+            "color": "rgb(255, 192, 43)",
+            "restitution": 0.5,
+            "isInit":true,
+            "point":6
+        },
+        {
+            "type": "persimmon",
+            "radius": 36,
+            "weight": 10,
+            "color": "rgb(255, 144, 8)",
+            "restitution": 0.5,
+            "isInit":true,
+            "point":10
+        },
+        {
+            "type": "apple",
+            "radius": 50,
+            "weight": 10,
+            "color": "rgb(255, 0, 0)",
+            "restitution": 0.5,
+            "isInit":false,
+            "point":15
+        },
+        {
+            "type": "pear",
+            "radius": 60,
+            "weight": 10,
+            "color": "rgb(165, 214, 58)",
+            "restitution": 0.5,
+            "isInit":false,
+            "point":21
+        },
+        {
+            "type": "peach",
+            "radius": 70,
+            "weight": 10,
+            "color": "rgb(255, 189, 237)",
+            "restitution": 0.5,
+            "isInit":false,
+            "point":28
+        },
+        {
+            "type": "pine",
+            "radius": 80,
+            "weight": 10,
+            "color": "rgb(255, 242, 0)",
+            "restitution": 0.5,
+            "isInit":false,
+            "point":36
+        },
+        {
+            "type": "melon",
+            "radius": 100,
+            "weight": 10,
+            "color": "rgb(131, 252, 91)",
+            "restitution": 0.5,
+            "isInit":false,
+            "point":45
+        },
+        {
+            "type": "waterMelon",
+            "radius": 120,
+            "weight": 10,
+            "color": "rgb(9, 145, 1)",
+            "restitution": 0.5,
+            "isInit":false,
+            "point":55
+        },
+        {
+            "type": "final",
+            "radius": 0,
+            "weight": 0,
+            "color": "",
+            "restitution": 0,
+            "isInit":false,
+            "point":66
+        }
+    ]
+}
